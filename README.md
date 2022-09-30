@@ -1,0 +1,3 @@
+# Desenvolvimento de estudos e projetos em django,python e etc...
+
+logo, logo tem novidade de base de projeto no perfil.
